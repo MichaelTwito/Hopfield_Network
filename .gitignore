@@ -1,0 +1,2 @@
+*.npy
+/weights_matrices/weight50.npy
